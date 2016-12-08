@@ -30,7 +30,7 @@ call vundle#begin()
     Plugin 'kien/ctrlp.vim'                     " Fast transitions on project files
 
     "-------------------=== Other ===-------------------------------
-    Plugin 'bling/vim-airline'                  " Lean & mean status/tabline for vim
+    Plugin 'vim-airline/vim-airline'            " Lean & mean status/tabline for vim
     Plugin 'vim-airline/vim-airline-themes'     " Themes for airline
     Plugin 'powerline/powerline'                " Powerline fonts plugin
     Plugin 'fisadev/FixedTaskList.vim'          " Pending tasks list
